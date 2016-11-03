@@ -1,0 +1,6 @@
+c:\users\alejandro\documents\visual studio 2015\Projects\ClienteODIN\ClienteODIN\bin\Debug\ClienteODIN.exe.config
+c:\users\alejandro\documents\visual studio 2015\Projects\ClienteODIN\ClienteODIN\bin\Debug\ClienteODIN.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\ClienteODIN\ClienteODIN\bin\Debug\ClienteODIN.pdb
+c:\users\alejandro\documents\visual studio 2015\Projects\ClienteODIN\ClienteODIN\obj\Debug\ClienteODIN.csprojResolveAssemblyReference.cache
+c:\users\alejandro\documents\visual studio 2015\Projects\ClienteODIN\ClienteODIN\obj\Debug\ClienteODIN.exe
+c:\users\alejandro\documents\visual studio 2015\Projects\ClienteODIN\ClienteODIN\obj\Debug\ClienteODIN.pdb
